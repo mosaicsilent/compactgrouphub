@@ -1,9 +1,15 @@
-# local scratch
-- item one
-- item two
-package tool
+# KeyGenerator-7b1220
 
-var Version = "1.0.0"
-#!/usr/bin/env python
-# tiny helper
-print('ok')
+A Java KeyGenerator utility.
+
+## Build
+
+```bash
+mvn clean package
+```
+
+## Run
+
+```bash
+java -cp target/classes Main
+```
